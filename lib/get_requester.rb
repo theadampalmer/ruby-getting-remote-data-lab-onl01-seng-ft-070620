@@ -1,7 +1,7 @@
 # Write your code here
 require 'net/http'
 require 'open-uri'
-require 'JSON'
+require 'json'
 
 class GetRequester
   
